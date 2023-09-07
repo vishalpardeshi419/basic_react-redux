@@ -1,9 +1,10 @@
 import './App.css';
+import Header from './container/Header';
 
 function App() {
   return (
     <div className="App">
-      <h1>THE Vishi</h1>
+      <Header />
     </div>
   );
 }
