@@ -4,7 +4,6 @@ import Header from './container/Header';
 function App() {
   return (
     <div className="App">
-      Hello
       <Header />
     </div>
   );
